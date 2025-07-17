@@ -1,4 +1,4 @@
-# 🧪 PetStore User API Test Framework
+# PetStore User API Test Framework
 
 ## 📌 Описание проекта
 
